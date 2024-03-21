@@ -19,11 +19,11 @@ class Game {
     
   
    
-    //if(mousePressed){
-     // this.createMagic()
-   //  }
+    // if(mousePressed){
+    //  this.createMagic()
+    // }
     
-    console.log(this.isMagic)
+    // console.log(this.isMagic)
   }
 
 
